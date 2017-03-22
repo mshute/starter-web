@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Mark Shute	mshute@seniormarketsales.com	@marklshute
 
 # THANKS
 
