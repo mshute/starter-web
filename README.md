@@ -14,6 +14,10 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 Curabitur facilisis sodales quam et ornare. Duis dui dui, hendrerit sit amet sapien eu, vestibulum dictum dui. Phasellus lectus leo, fringilla in nisl eu, facilisis fermentum mauris. Aenean semper congue orci venenatis iaculis. Suspendisse vel massa in purus fringilla commodo nec sed augue. Ut vehicula nisl id enim eleifend, eu commodo nisi accumsan. Vivamus tortor purus, congue vitae nisi et, tristique dapibus lacus. Aliquam et commodo mi. 
 
+## How to Contribute
+
+Praesent at nisl eros. Aenean augue purus, lobortis non tincidunt ut, tincidunt nec elit. Cras ultrices finibus turpis. Cras posuere dolor non blandit vestibulum. Vivamus imperdiet rutrum tincidunt. Sed ullamcorper ac ante sagittis tincidunt.
+
 ### Copyright
 
 2017
