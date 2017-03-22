@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie, nibh id scelerisque gravida, neque velit vestibulum dolor, ut hendrerit massa magna ac neque. Nulla bibendum nec mauris vel semper. Praesent at nisl eros. Aenean augue purus, lobortis non tincidunt ut, tincidunt nec elit. Cras ultrices finibus turpis. Cras posuere dolor non blandit vestibulum. Vivamus imperdiet rutrum tincidunt. Sed ullamcorper ac ante sagittis tincidunt. Fusce eget mauris sagittis, scelerisque diam a, consequat leo. Praesent lectus metus, fringilla ac tellus id, maximus egestas lectus. Suspendisse potenti. Fusce sit amet posuere tellus. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie, nibh id scelerisque gravida, neque velit vestibulum dolor, ut hendrerit massa magna ac neque. Nulla bibendum nec mauris vel semper. Praesent at nisl eros. Aenean augue purus, lobortis non tincidunt ut, tincidunt nec elit. Cras ultrices finibus turpis. Cras posuere dolor non blandit vestibulum. Vivamus imperdiet rutrum tincidunt. Sed ullamcorper ac ante sagittis tincidunt. 
 
 ## Purpose
 
